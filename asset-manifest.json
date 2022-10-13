@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/trybe-wallet-gh-pages/static/css/main.9f535122.chunk.css",
-    "main.js": "/trybe-wallet-gh-pages/static/js/main.370ee8f4.chunk.js",
-    "main.js.map": "/trybe-wallet-gh-pages/static/js/main.370ee8f4.chunk.js.map",
+    "main.js": "/trybe-wallet-gh-pages/static/js/main.09400bc6.chunk.js",
+    "main.js.map": "/trybe-wallet-gh-pages/static/js/main.09400bc6.chunk.js.map",
     "runtime-main.js": "/trybe-wallet-gh-pages/static/js/runtime-main.06b4bf6e.js",
     "runtime-main.js.map": "/trybe-wallet-gh-pages/static/js/runtime-main.06b4bf6e.js.map",
     "static/js/2.e82e631c.chunk.js": "/trybe-wallet-gh-pages/static/js/2.e82e631c.chunk.js",
     "static/js/2.e82e631c.chunk.js.map": "/trybe-wallet-gh-pages/static/js/2.e82e631c.chunk.js.map",
     "index.html": "/trybe-wallet-gh-pages/index.html",
-    "precache-manifest.7ab279f2c858ce88f4ba0def8cceb676.js": "/trybe-wallet-gh-pages/precache-manifest.7ab279f2c858ce88f4ba0def8cceb676.js",
+    "precache-manifest.4149f16bade4cd00973b83965c5b7910.js": "/trybe-wallet-gh-pages/precache-manifest.4149f16bade4cd00973b83965c5b7910.js",
     "service-worker.js": "/trybe-wallet-gh-pages/service-worker.js",
     "static/css/main.9f535122.chunk.css.map": "/trybe-wallet-gh-pages/static/css/main.9f535122.chunk.css.map",
     "static/js/2.e82e631c.chunk.js.LICENSE.txt": "/trybe-wallet-gh-pages/static/js/2.e82e631c.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.06b4bf6e.js",
     "static/js/2.e82e631c.chunk.js",
     "static/css/main.9f535122.chunk.css",
-    "static/js/main.370ee8f4.chunk.js"
+    "static/js/main.09400bc6.chunk.js"
   ]
 }
